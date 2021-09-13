@@ -1,0 +1,1 @@
+This Directory contains test file in javascript code. Which perform the test action for smart contracts
